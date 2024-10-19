@@ -14,7 +14,13 @@ This repository provides efficient Python implementations for solving the Knapsa
 
 **Installation:**
 
-Ensure you have Python 3.x installed. No additional libraries are required.
+Ensure you have Python 3.x installed. 
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install time.
+
+```bash
+pip install time
+```
 
 **Usage:**
 
@@ -62,4 +68,4 @@ Selected items: 2, 3
 
 **License:**
 
-This project is licensed under the [MIT License]
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
