@@ -16,7 +16,7 @@ This repository provides efficient Python implementations for solving the Knapsa
 
 Ensure you have Python 3.x installed. 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install time.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install `time`.
 
 ```bash
 pip install time
@@ -32,13 +32,9 @@ pip install time
 
 2.  **Run the Scripts:**
 
-    Replace `<weight>` and `<values>` with your own data:
+    Replace the `<objets>` list with your own data:
 
-    ```bash
-    python dynamic_algo.py <weight> <values>
-    python greedy_algo.py <weight> <values>
-    python greedy_algo_opti.py <weight> <values>
-    ```
+
 
 **Output:**
 
