@@ -17,7 +17,7 @@ This repository includes three solutions to the **Knapsack Problem**: a dynamic 
    - **Time Complexity**: O(n log n) + local search.
 
 ## How to Run:
-To execute the algorithms, simply run the respective Python scripts in your terminal:
+To execute the algorithms, simply run the respective Python scripts in your terminal :
 
 ```bash
 python3 dynamic_algo.py
